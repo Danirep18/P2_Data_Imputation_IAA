@@ -24,3 +24,4 @@ If you don´t have installed any of this packages yo can install
 pip install $package_name
 ```
 
+🥦Daniel 🥭Yahir 🍎Joshua
